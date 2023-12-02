@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-Personal website for portfolio class in BUT SD.
+ Website for portfolio class in BUT SD.
 
 
 
